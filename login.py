@@ -1,5 +1,5 @@
 #login page to python
-#pushing code to github
+#pushing code to github to mahi guthub
 from tkinter import *
 def register_user():
     
